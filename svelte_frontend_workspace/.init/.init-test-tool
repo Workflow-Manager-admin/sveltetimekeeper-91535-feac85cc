@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/sveltetimekeeper-91535-feac85cc/svelte_frontend_workspace/svelte_frontend"
+}
